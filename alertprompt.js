@@ -1,2 +1,2 @@
 alert("Emre Üçbudak");
-prompt("Emre Üçbudak")
+prompt("Emre Üçbudak");
